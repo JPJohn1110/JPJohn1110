@@ -2,7 +2,7 @@
 
 ## 🚀 Cientista de Dados | Bacharel em Sistemas de Informação | Entusiasta de Machine Learning
 
-<div align="center">
+<div align="justify">
   
 
 **Desenvolvedor e Cientista de Dados** especializado em transformar dados em soluções tecnológicas que integram software e hardware.
