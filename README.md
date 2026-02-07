@@ -1,14 +1,12 @@
-# ** João Pedro Santos ** 👋
+# 👾 João Pedro Santos 
 
 ## 🚀 Cientista de Dados | Bacharel em Sistemas de Informação | Entusiasta de Machine Learning
 
-<div align="left">
+<div align="center">
   
+
 **Desenvolvedor e Cientista de Dados** especializado em transformar dados em soluções tecnológicas que integram software e hardware.
-
 Especialista em **Ciência de Dados** e **Desenvolvimento de Sistemas**, com sólida experiência em Python, Java e C/C++. Atuo desde o desenvolvimento de aplicações web escaláveis e APIs robustas até a implementação de soluções IoT embarcadas com ESP32, focando em eficiência técnica e inovação aplicada.
-
-Com expertise em **Machine Learning** e **Deep Learning**, desenvolvo sistemas de detecção de intrusão (IDS) utilizando redes neurais como MLP e modelos baseados em **Transformers**. Experiência prática em **fine-tuning de Large Language Models (LLMs)** para aplicações de segurança cibernética e processamento de linguagem natural, aplicando técnicas avançadas de ML para resolver problemas complexos em ambientes de produção.
 
 </div>
 
@@ -79,6 +77,7 @@ Com expertise em **Machine Learning** e **Deep Learning**, desenvolvo sistemas d
 ### 🏆 Projetos em Destaque
 
 <br>
+
 
 #### �🚢 [NavalStrike](https://github.com/JPJohn1110/NavalStrike)
 **`Sistemas Distribuídos` `Python` `Game`**
