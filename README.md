@@ -66,13 +66,13 @@ Estudante de **Ciência de Dados** e **Desenvolvimento de Sistemas**, com experi
 
 ### 📊 GitHub Stats
 
-<div align="center">
 
-![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPJohn1110&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JPJohn1110&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPJohn1110&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
+</details>
 
-</div>
 
 ---
 
