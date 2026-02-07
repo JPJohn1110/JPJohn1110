@@ -6,17 +6,7 @@
   
 
 **Desenvolvedor e Cientista de Dados** especializado em transformar dados em soluções tecnológicas que integram software e hardware.
-Especialista em **Ciência de Dados** e **Desenvolvimento de Sistemas**, com sólida experiência em Python, Java e C/C++. Atuo desde o desenvolvimento de aplicações web escaláveis e APIs robustas até a implementação de soluções IoT embarcadas com ESP32, focando em eficiência técnica e inovação aplicada.
-
-</div>
-
-## 🌟 Sobre Mim
-
-- 🎓 **Formação:** Bacharel em Sistemas de Informação e Técnico em Informática.
-- 💻 **Foco Atual:** Ciência de Dados, Machine Learning e Desenvolvimento Backend.
-- 🛠️ **Habilidades:** Linux, Automação (Bash), Redes, Análise de Dados e IoT.
-- 🎯 **Objetivo:** Unir desenvolvimento de software, redes e inteligência artificial para criar sistemas eficientes e inovadores.
-
+Estudante de **Ciência de Dados** e **Desenvolvimento de Sistemas**, com experiência em Python, Java e C/C++. Atuo desde o desenvolvimento de aplicações web escaláveis e APIs até a implementação de soluções IoT, focando em eficiência técnica e inovação. Hoje pesquiso na área de IA e Administração de Redes, principalmente em segurança.
 
 <br>
 
@@ -28,6 +18,18 @@ Especialista em **Ciência de Dados** e **Desenvolvimento de Sistemas**, com só
 [![Lattes](https://img.shields.io/badge/Lattes-Curriculo-blue?style=for-the-badge)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=97202F2741B353EF06FE60F05DD251BB#)
 
 </div>
+
+</div>
+
+## 🌟 Sobre Mim
+
+- 🎓 **Formação:** Bacharel em Sistemas de Informação e Técnico em Informática.
+- 💻 **Foco Atual:** Ciência de Dados, Machine Learning e Desenvolvimento Backend.
+- 🛠️ **Habilidades:** Linux, Automação (Bash), Redes, Análise de Dados e IoT.
+- 🎯 **Objetivo:** Unir desenvolvimento de software, redes e inteligência artificial para criar sistemas eficientes e inovadores.
+
+
+
 
 
 ---
