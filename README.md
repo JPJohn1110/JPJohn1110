@@ -1,6 +1,6 @@
 # 👾 João Pedro Santos 
 
-## 🚀 Cientista de Dados | Bacharel em Sistemas de Informação | Entusiasta de Machine Learning
+## 🚀 Cientista de Dados | Sistemas de Informação | Machine Learning
 
 <div align="justify">
   
