@@ -15,7 +15,7 @@ Estudante de **Ciência de Dados** e **Desenvolvimento de Sistemas**, com experi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigues-j-p-s/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_jpsr)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpsr.jpsantos@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes-Curriculo-blue?style=for-the-badge)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=97202F2741B353EF06FE60F05DD251BB#)
+[![Lattes](https://img.shields.io/badge/Lattes-Curriculo-blue?style=for-the-badge)](https://lattes.cnpq.br/8364974943882621)
 
 </div>
 
