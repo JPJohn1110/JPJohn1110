@@ -5,8 +5,7 @@
 <div align="justify">
   
 
-**Desenvolvedor e Cientista de Dados** especializado em transformar dados em soluções tecnológicas que integram software e hardware.
-Estudante de **Ciência de Dados** e **Desenvolvimento de Sistemas**, com experiência em Python, Java e C/C++. Atuo desde o desenvolvimento de aplicações web escaláveis e APIs até a implementação de soluções IoT, focando em eficiência técnica e inovação. Hoje pesquiso na área de IA e Administração de Redes, principalmente em segurança.
+**Desenvolvedor e Cientista de Dados**, faço pesquisa sobre Inteligência Artificial Tansformers e Modelos de Machine Learning, com experiência em Python, Java e C/C++. Atuo desde o desenvolvimento de aplicações web escaláveis e APIs até a implementação de soluções IoT, focando em eficiência técnica e inovação. Hoje pesquiso na área de IA e Administração de Redes.
 
 <br>
 
