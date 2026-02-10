@@ -1,6 +1,6 @@
 # 👾 João Pedro Santos 
 
-## 🚀 Cientista de Dados | Sistemas de Informação | Machine Learning
+## Cientista de Dados | Sistemas de Informação | Machine Learning 
 
 <div align="justify">
   
